@@ -6,7 +6,7 @@
 
 Current geography undergraduate student with strong work ethic and quick learning ability.
 
-# Work Experience
+# Education
 
 ## [University of Washington](http://www.washington.edu/) (Seattle, Washington)
 
@@ -17,6 +17,8 @@ Training in geographic mapping service technologies, data science principles, an
 - Mapped voting patterns in **Washington State**
 - Created Atlas depicting various factors of lung cancer incidence rates in the United States
 - Created crude travel app within Microsoft Azure
+
+# Work Experience 
 
 ## [United States Census Bureau](https://www.census.gov/) (Seattle, Washington)
 
