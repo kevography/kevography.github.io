@@ -1,3 +1,4 @@
+![Image of Seattle](/assets/img/IMG_1293.jpg)
 # Kevin Chau
 
 ##### kevic99@uw.edu | kevography.github.io
@@ -18,7 +19,7 @@ Training in geographic mapping service technologies, data science principles, an
 - Created Atlas depicting various factors of lung cancer incidence rates in the United States
 - Created crude travel app within Microsoft Azure
 
-# Work Experience 
+# Work Experience
 
 ## [United States Census Bureau](https://www.census.gov/) (Seattle, Washington)
 
